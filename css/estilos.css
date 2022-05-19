@@ -13,3 +13,13 @@ body{
 #container h1{
     size: 200px;
 }
+#cabecera{
+    background: aquamarine;
+    color: bisque;
+    margin: 0;
+    padding: 0.5em;
+    width: bold;
+}
+#span{
+    color: antiquewhite;
+}
